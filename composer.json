@@ -1,0 +1,21 @@
+{
+  "name": "pokmot/pimple",
+  "description": "Extending Pimple to be a singleton",
+  "keywords": ["pimple", "dependency injection", "container"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Steve",
+      "email": "steve@membershipdevelopers.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "pimple/pimple": "~3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PimpleSingleton\\": "src"
+    }
+  }
+}
