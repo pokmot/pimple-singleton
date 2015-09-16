@@ -1,5 +1,5 @@
 {
-  "name": "pokmot/pimple",
+  "name": "pokmot/pimple-singleton",
   "description": "Extending Pimple to be a singleton",
   "keywords": ["pimple", "dependency injection", "container"],
   "license": "MIT",
